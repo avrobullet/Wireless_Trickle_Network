@@ -22,4 +22,4 @@ We were not able to solve why our OLED display gave us strange and inconsistent 
 An issue arose with our wiring for connecting the Xbees to the SAM4S. The wires we manufactured worked, however they were the wrong size for the extensions on the SAM4S, this led to some wires contacting each other, which caused odd behaviour. After troubleshooting wireless communication issues a decision was made to manufacture new wires for the nodes that were giving us trouble, this time ensuring proper shielding on the end connections.
 
 ## Special Thanks
-A huge part of this project is built on top of MiniOS, an operating system built for the SAM4S micro controller by [Rafael Roman Otero](http://embedntks.com/author/romanot/)
+A huge part of this project is built on top of MiniOS, an operating system built for the SAM4S micro controller by [Rafael Roman Otero](http://embedntks.com/author/romanot/).
