@@ -1,4 +1,8 @@
 # Wireless Trickle Network
+<a href="https://www.youtube.com/watch?v=7UpjE0antww" target="_blank">
+  <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+  Click here to view the Wireless Trickle Network in action
+</a>
 The objective of this project was to use a series of SAM4S microcontrollers with Xbee wireless radios attached to each to act as nodes in a wireless communication network.
 
 Each node, except for the ‘seed’ node, begins in a state of simply listening for a signal from a specific node. When that signal is received it maintains it’s listening state, but also transmits a signal of its own to another specific node. This propagates throughout the network until each node is both receiving and sending. If the communication chain is broken all nodes after where the break occurs stop sending until a signal is again received at the break.
