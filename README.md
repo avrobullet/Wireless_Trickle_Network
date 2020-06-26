@@ -1,8 +1,8 @@
 # Wireless Trickle Network
+<img src="https://img.youtube.com/vi/FVWkvPiDZ3Y/0.jpg">
 <a href="https://www.youtube.com/watch?v=FVWkvPiDZ3Y&feature=youtu.be" target="_blank">
-  <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg">
-  Click here to view the Wireless Trickle Network in action (pardon the choice cheesy music and cheeky sound effects...)
-</a>
+  Click here to view the Wireless Trickle Network in action (pardon the choice cheesy music and cheeky sound effects...)</a>
+
 
 The objective of this project was to use a series of SAM4S microcontrollers with Xbee wireless radios attached to each to act as nodes in a wireless communication network.
 
