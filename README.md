@@ -9,7 +9,8 @@ The seed node begins in an inactive state and is primed via a button push. Once 
 
 The main hardware used for this project:
 
-*SAM4SD32 Microcontroller*
+![*SAM4SD32 Microcontroller is the brain of the project where the code was flashed and stored on the ROM.*](https://mdrakos.github.io/images/sam4s.png)
+
 
 ## Implementation
 Once a packet was received from the correct node the one of the LEDs on the SAM4S was set to blink. The blink timing depended on the RSSI signal strength received from the sending node. The closer the node, the faster the blink. Similarly, the OLED screen on the Xplained Pro extension was configured to display the actual RSSI value, though this proved to be inconsistent.
