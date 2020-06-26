@@ -9,7 +9,28 @@ The seed node begins in an inactive state and is primed via a button push. Once 
 
 The main hardware used for this project:
 
-![*SAM4SD32 Microcontroller is the brain of the project where the code was flashed and stored on the ROM.*](https://mdrakos.github.io/images/sam4s.png)
+**SAM4SD32 Microcontroller**
+
+<img src="https://mdrakos.github.io/images/sam4s.png" width="300" height="250">
+
+* This is the brain of the project.
+* Code is flashed and stored on the ROM
+* Extension pins allow for connection to all other hardware components
+
+**ATMEL OLED1 Xplained Pro**
+
+<img src="https://mdrakos.github.io/images/oled.png" width="350" height="250">
+
+* Used to initialize the program via a button push
+* Display statistics (number of rotations) on OLED display
+
+**Xbee Wireless Radio**
+
+<img src="https://mdrakos.github.io/images/xbee-ant.png" width="350" height="250">
+
+* Xbee RF modules for easy deployment and connectivity
+* Configured using XCTU software
+* Configured so each module would accept packets from a specific broadcast address
 
 
 ## Implementation
