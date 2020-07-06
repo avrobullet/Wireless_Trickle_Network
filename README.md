@@ -61,4 +61,4 @@ An issue arose with our wiring for connecting the Xbees to the SAM4S. The wires 
 A huge part of this project is built on top of MiniOS, an operating system built for the SAM4S micro controller by [Rafael Roman Otero](http://embedntks.com/author/romanot/).
 
 ## License
-This project is licensed under the [GNU General Public License V.3 License](https://github.com/avrobullet/COVID19_Tracker/blob/master/LICENSE) - see the LICENSE file for details
+This project is licensed under the [MIT License](https://github.com/avrobullet/Wireless_Trickle_Network/blob/master/LICENSE) - see the LICENSE file for details
