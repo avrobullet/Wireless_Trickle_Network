@@ -8,7 +8,7 @@ Click the image below to view the Wireless Trickle Network in action (pardon the
 - [Hardware](#hardware)
 - [Implementation](#implementation)
 - [Challenges](#challenges)
-- [Special Thanks](#special-hanks)
+- [Special Thanks](#special-thanks)
 - [License](#license)
 
 ## Introduction
