@@ -1,5 +1,6 @@
 # Wireless Trickle Network
 
+Click the image below to view the Wireless Trickle Network in action (pardon the choice cheesy music and cheeky sound effects...)
 [![Wireless Trickle Network](https://img.youtube.com/vi/FVWkvPiDZ3Y/0.jpg)](https://www.youtube.com/watch?v=FVWkvPiDZ3Y&feature=youtu.be)
 
 ## Contents
@@ -58,3 +59,6 @@ An issue arose with our wiring for connecting the Xbees to the SAM4S. The wires 
 
 ## Special Thanks
 A huge part of this project is built on top of MiniOS, an operating system built for the SAM4S micro controller by [Rafael Roman Otero](http://embedntks.com/author/romanot/).
+
+## License
+This project is licensed under the [GNU General Public License V.3 License](https://github.com/avrobullet/COVID19_Tracker/blob/master/LICENSE) - see the LICENSE file for details
